@@ -1,0 +1,20 @@
+.grid-parent{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 200px;
+    /* grid-column-gap: 10px; DEPRECATED*/
+    /* grid-row-gap: 10px; DEPRECATED */
+    /* grid-gap: 20px; DEPRECATED*/
+    /* row-gap: 10px; */
+    /* column-gap: 10px; */
+    gap: 10px; 
+
+    
+}
+
+.grid-item{
+    /* margin: 1rem; */
+    background-color: coral;
+
+    /* grid-column: 1 / 3; */
+}

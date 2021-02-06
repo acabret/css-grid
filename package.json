@@ -1,0 +1,11 @@
+{
+  "name": "css-grid-tutorial",
+  "version": "1.0.0",
+  "description": "learning to use css grid from various sources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alonso",
+  "license": "MIT"
+}
